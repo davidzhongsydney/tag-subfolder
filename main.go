@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"tag-subfolder/structs"
+
+	"github.com/davidzhongsydney/tag-subfolder/structs"
 )
 
 func main() {
